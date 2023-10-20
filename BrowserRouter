@@ -1,0 +1,9 @@
+Browser Router is a component provided by the react router dom.
+it is used for clent side routing in react apps.
+
+
+When to use browser router:
+
+1.we should use it when we need client side routing in our react app.
+2.use it when we need to define and manage the routing structure of our
+single-page app or multi page app.

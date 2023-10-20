@@ -1,0 +1,2 @@
+path prop in react router dom is used to define the url path .
+it determines which component should be rendered when the url matches the specific path.

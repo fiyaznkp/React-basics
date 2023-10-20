@@ -1,0 +1,19 @@
+it is a popular library for handling routing in react apps, it is a specific package 
+within the react router ecosystem which is designed for web applications.
+
+Advantages of React router
+
+1.Declarative routing : it allows us to declare routes of the app in a declarative manner.
+2.Client-side routing : it enables client side routing.
+3.Nested routing
+4.URL manipulation.
+
+Difference between react router dom and react router
+
+react router : it is the core package for react routing, it provides trhe core routing functionality,
+includes the <Route>,<Switch> and <link> components.
+
+react router dom: it is build on top of react router, it is designed for web apps that runs in the browser.
+it provides additional components like <BrowserRouter>,<HashRouter> ,<Navlink> and <Rediret>
+
+generally react router is the core package of routing functionalty and react router dom is the extension of react router.

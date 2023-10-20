@@ -1,0 +1,2 @@
+it is a hook provided by react router dom for react.it allows us to access the parametres from the current route's url.
+we can use it extract dynamic url parametres and use them in our components.
